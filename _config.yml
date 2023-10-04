@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Garrett Limon"
-  avatar           : "images/headShot.jpg"
+  avatar           : "headShot.jpg"
   bio              : "PhD Candidate, at the University of Michigan"
   location         : "Arlington, MA"
   employer         :
