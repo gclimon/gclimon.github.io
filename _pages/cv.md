@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://drive.google.com/file/d/1FKK9-IHmIpwptjq1IfVOMJculmN2AhlO/view?usp=share_link
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
