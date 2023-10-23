@@ -7,22 +7,23 @@ venue: 'Journal of Advances in Modeling Earth Systems'
 paperurl: 'https://gclimon.github.io/files/Limon2023.pdf'
 citation: 'Limon, Garrett. (2023). &quot;Probing the Skill of Random Forests Emulators for Physical Parameterizations via a Hierarchy of Simple CAM6 Configurations.&quot; <i>Journal of Advances in Modeling Earth Systems.'
 ---
-Abstract: Machine learning approaches, such as random forests (RF), have been used to effectively emulate
-various aspects of climate and weather models in recent years. The limitations to these approaches are not yet
-known, particularly with regards to varying complexity of the underlying physical parameterization scheme
-within the climate model. Utilizing a hierarchy of model configurations, we explore the limits of random forest
-emulator skill using simplified model frameworks within NCAR's Community Atmosphere Model, version 6
-(CAM6). These include a dry CAM6 configuration, a moist extension of the dry model, and an extension of
-the moist case that includes an additional convection scheme. Each model configuration is run with identical
-resolution and over the same time period. With unique RF being optimized for each tendency or precipitation
-rate across the hierarchy, we create a variety of “best case” emulators. The random forest emulators are then
-evaluated against the CAM6 output as well as a baseline neural network emulator for completeness. All
-emulators show significant skill when compared to the “truth” (CAM6), often in line with or exceeding similar
-approaches within the literature. In addition, as the CAM6 complexity is increased, the random forest skill
-noticeably decreases, regardless of the extensive tuning and training process each random forest goes through.
-This indicates a limit on the feasibility of RF to act as physics emulators in climate models and encourages
-further exploration in order to identify ideal uses in the context of state-of-the-art climate model configurations.
+Abstract: 
+Machine learning approaches, such as random forests (RF), have been used to effectively emulate various aspects 
+of climate and weather models in recent years. The limitations to these approaches are not yet known, particularly 
+with regards to varying complexity of the underlying physical parameterization scheme within the climate model. 
+Utilizing a hierarchy of model configurations, we explore the limits of random forest emulator skill using 
+simplified model frameworks within NCAR's Community Atmosphere Model, version 6 (CAM6). These include a dry CAM6 
+configuration, a moist extension of the dry model, and an extension of the moist case that includes an additional 
+convection scheme. Each model configuration is run with identical resolution and over the same time period. With 
+unique RF being optimized for each tendency or precipitation rate across the hierarchy, we create a variety of 
+“best case” emulators. The random forest emulators are then evaluated against the CAM6 output as well as a 
+baseline neural network emulator for completeness. All emulators show significant skill when compared to the 
+“truth” (CAM6), often in line with or exceeding similar approaches within the literature. In addition, as the CAM6
+complexity is increased, the random forest skill noticeably decreases, regardless of the extensive tuning and 
+training process each random forest goes through. This indicates a limit on the feasibility of RF to act as physics 
+emulators in climate models and encourages further exploration in order to identify ideal uses in the context of 
+state-of-the-art climate model configurations.
 
 [Download paper here](http://gclimon.github.io/files/Limon2023.pdf)
 
-Recommended citation: Limon, Garrett. (2023). "Probing the Skill of Random Forests Emulators for Physical Parameterizations via a Hierarchy of Simple CAM6 Configurations." <i>Journal of Advances in Modeling Earth Systems.
+Recommended citation: Limon, Garrett. (2023). "Probing the Skill of Random Forests Emulators for Physical Parameterizations via a Hierarchy of Simple CAM6 Configurations." <i>Journal of Advances in Modeling Earth Systems.<i>
