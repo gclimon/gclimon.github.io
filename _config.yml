@@ -85,8 +85,8 @@ author:
   bio              : "PhD Candidate, at the University of Michigan"
   location         : "Arlington, MA"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            : "glimon@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
