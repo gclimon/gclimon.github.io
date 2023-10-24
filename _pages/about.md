@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae](https://drive.google.com/file/d/1FKK9-IHmIpwptjq1IfVOMJculmN2AhlO/view?usp=share_link)
+[Curriculum Vitae](https://drive.google.com/file/d/1XdNfgDjhyhylxJj1FL0xkpjfiMEGn2W4/view?usp=sharing)
 -===
 
 [Atmospheric Dynamics Modeling Group Website](https://admg.engin.umich.edu/)
