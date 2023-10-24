@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 [Curriculum Vitae](https://drive.google.com/file/d/1FKK9-IHmIpwptjq1IfVOMJculmN2AhlO/view?usp=share_link)
--======
-
+-===
 [Atmospheric Dynamics Modeling Group Website](https://admg.engin.umich.edu/)
--======
-
-[CLaSP Webpage](https://clasp.engin.umich.edu/people/limon-garrett/)
--======
+-===
+[UM CLaSP Webpage](https://clasp.engin.umich.edu/people/limon-garrett/)
+-===
 
 Bio
 -======
