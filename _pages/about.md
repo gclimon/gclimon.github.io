@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Resume](files/Resume04132026)
+[Resume](https://drive.google.com/file/d/12jOI57rS9UzCEZuI9pGs_XFQVXtZg0KP/view?usp=sharing)
 -======
 
 Garrett Limon is a Machine Learning Scientist based in Los Angeles, CA, with a Ph.D. in Climate and Space Sciences and Engineering from the University of Michigan (2025). He brings over a decade of scientific computing experience, including three years of Python and Fortran development prior to his doctoral work, during which he focused on building and evaluating deep learning and statistical models. He holds a B.S. and M.S. in Physics from California State University, Northridge, where he developed numerical methods for biomolecular solvation simulations; a foundation that informed his transition into computational atmospheric science and, ultimately, applied machine learning.
