@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
-title: "Projects"
-excerpt: "Projects"
+title: "Research & Projects"
+excerpt: "Research & Projects"
 author_profile: true
 redirect_from: 
   - /about/
