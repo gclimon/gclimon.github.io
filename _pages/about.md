@@ -22,27 +22,27 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 
 #### Awards & Honors
 
-Graduate Research Fellowship Program (GRFP), National Science Foundation (2018)
-Funded Attendee, AMS Summer Policy Colloquium, American Meteorological Society
-D.E. Bianchi Outstanding Graduate Student Award, CSU Northridge College of Science & Mathematics
-Inductee, Sigma Pi Sigma National Physics Honor Society, CSU Northridge Chapter
+- Graduate Research Fellowship Program (GRFP), National Science Foundation (2018)
+- Funded Attendee, AMS Summer Policy Colloquium, American Meteorological Society
+- D.E. Bianchi Outstanding Graduate Student Award, CSU Northridge College of Science & Mathematics
+- Inductee, Sigma Pi Sigma National Physics Honor Society, CSU Northridge Chapter
 
 ---
 
-### Certifications
+#### Certifications
 
-Graduate Certificate - Data Science, University of Michigan (2025)
-Graduate Certificate - Science Policy, University of Michigan (2025)
-Certificate - Proficiency in High Performance Computing, International Summer School on HPC Challenges in Computational Science (2017)
+- Graduate Certificate - Data Science, University of Michigan (2025)
+- Graduate Certificate - Science Policy, University of Michigan (2025)
+- Certificate - Proficiency in High Performance Computing, International Summer School on HPC Challenges in Computational Science (2017)
 
 ---
 
-### Leadership
+#### Leadership
 
-President, Graduate and Undergraduate Student Organization, U-M CLaSP (2020-2021)
-Student Engagement Chair, same org (2019)
-Panelist, Fellowship Writing Tutorial and Panel, U-M (2020)
-Reviewer & Organizer, NSF & External Funding Workshop, U-M (2021)
+- President, Graduate and Undergraduate Student Organization, U-M CLaSP (2020-2021)
+- Student Engagement Chair, same org (2019)
+- Panelist, Fellowship Writing Tutorial and Panel, U-M (2020)
+- Reviewer & Organizer, NSF & External Funding Workshop, U-M (2021)
 
 ---
 
@@ -54,7 +54,7 @@ Garrett has served as a Graduate Student Instructor at California State Universi
 
 #### Technical Skills
 
-Languages: Python, Fortran, MATLAB, SQL (in progress)
-Machine Learning & Data Science: PyTorch, TensorFlow, scikit-learn, Xarray
-Scientific Computing & HPC: MPI, PBS, Bash, Git, LaTeX
+- Languages: Python, Fortran, MATLAB, SQL (in progress)
+- Machine Learning & Data Science: PyTorch, TensorFlow, scikit-learn, Xarray
+- Scientific Computing & HPC: MPI, PBS, Bash, Git, LaTeX
 
