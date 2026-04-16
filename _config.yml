@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Garrett Limon"
 title_separator          : "-"
-name                     : &name "Garret Limon"
-description              : &description "PhD Candidate at the University of Michigan"
+name                     : &name "Garrett Limon"
+description              : &description ""
 url                      : https://gclimon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gclimon/gclimon.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Garrett Limon, PhD"
   avatar           : "headShot.jpg"
-  bio              : "Atmospheric & Machine Learning Scientist"
-  location         : "Ann Arbor, MI"
+  bio              : "Machine Learning Scientist"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=0OH55PYAAAAJ&hl=en"
@@ -102,14 +102,14 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/garrett-limon-6734b4293/"
+  linkedin         : "https://www.linkedin.com/in/garrett-limon/"
   orcid            : "http://orcid.org/0000-0002-6504-7710"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LimonGarrett"
+  twitter          : # "LimonGarrett"
   vine             :
   weibo            :
   xing             :
