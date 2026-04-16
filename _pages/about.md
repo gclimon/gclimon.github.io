@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Resume](https://drive.google.com/file/d/1yYpAYppU7cLiWMisC5QbFDLVBh1gViY6/view?usp=sharing)
+## [Resume](https://drive.google.com/file/d/1yYpAYppU7cLiWMisC5QbFDLVBh1gViY6/view?usp=sharing)
 
 ---
 
