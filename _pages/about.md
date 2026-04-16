@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### [Resume](https://drive.google.com/file/d/1yYpAYppU7cLiWMisC5QbFDLVBh1gViY6/view?usp=sharing)
+## [Resume](https://drive.google.com/file/d/1yYpAYppU7cLiWMisC5QbFDLVBh1gViY6/view?usp=sharing)
 
 Garrett Limon is a Machine Learning Scientist based in Los Angeles, CA, with a Ph.D. in Climate and Space Sciences and Engineering from the University of Michigan (2025). He brings over a decade of scientific computing experience, including three years of Python and Fortran development prior to his doctoral work, during which he focused on building and evaluating deep learning and statistical models. He holds a B.S. and M.S. in Physics from California State University, Northridge, where he developed numerical methods for biomolecular solvation simulations; a foundation that informed his transition into computational atmospheric science and, ultimately, applied machine learning.
 
@@ -18,7 +18,7 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 
 ---
 
-#### Awards & Honors
+### Awards & Honors
 
 - Graduate Research Fellowship Program (GRFP), National Science Foundation (2018)
 - Funded Attendee, AMS Summer Policy Colloquium, American Meteorological Society
@@ -27,7 +27,7 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 
 ---
 
-#### Certifications
+### Certifications
 
 - Graduate Certificate - Data Science, University of Michigan (2025)
 - Graduate Certificate - Science Policy, University of Michigan (2025)
@@ -35,7 +35,7 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 
 ---
 
-#### Leadership
+### Leadership
 
 - President, Graduate and Undergraduate Student Organization, U-M CLaSP (2020-2021)
 - Student Engagement Chair, same org (2019)
@@ -44,13 +44,13 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 
 ---
 
-#### Teaching
+### Teaching
 
 Garrett has served as a Graduate Student Instructor at California State University, Northridge, teaching introductory Astronomy and Electricity & Magnetism laboratory courses. Responsibilities included developing lesson plans, quizzes, and lectures while guiding students through both theory and hands-on experiments.
 
 ---
 
-#### Technical Skills
+### Technical Skills
 
 - Languages: Python, Fortran, MATLAB, SQL (in progress)
 - Machine Learning & Data Science: PyTorch, TensorFlow, scikit-learn, Xarray
