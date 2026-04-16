@@ -21,9 +21,9 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 ### Awards & Honors
 
 - Graduate Research Fellowship Program (GRFP), National Science Foundation (2018)
-- Funded Attendee, AMS Summer Policy Colloquium, American Meteorological Society
-- D.E. Bianchi Outstanding Graduate Student Award, CSU Northridge College of Science & Mathematics
-- Inductee, Sigma Pi Sigma National Physics Honor Society, CSU Northridge Chapter
+- Funded Attendee, AMS Summer Policy Colloquium, American Meteorological Society (2022)
+- D.E. Bianchi Outstanding Graduate Student Award, CSU Northridge College of Science & Mathematics (2018)
+- Inductee, Sigma Pi Sigma National Physics Honor Society, CSU Northridge Chapter (2018)
 
 ---
 
@@ -38,7 +38,7 @@ Garrett was awarded the NSF Graduate Research Fellowship (GRFP) in 2018 and hold
 ### Leadership
 
 - President, Graduate and Undergraduate Student Organization, U-M CLaSP (2020-2021)
-- Student Engagement Chair, same org (2019)
+- Student Engagement Chair, Graduate and Undergraduate Student Organization, U-M CLaSP (2019)
 - Panelist, Fellowship Writing Tutorial and Panel, U-M (2020)
 - Reviewer & Organizer, NSF & External Funding Workshop, U-M (2021)
 
