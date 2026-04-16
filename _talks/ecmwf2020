@@ -1,6 +1,8 @@
 ---
 title: "Assessing Machine Learning Approaches for Physical Parameterizations in Atmospheric General Circulation Models"
 collection: talks
+permalink: /talks/2020ecmwf
+excerpt: "this talk"
 type: "Oral Presentation"
 venue: "ECMWF-ESA Workshop on Machine Learning for Earth System Observation and Prediction"
 date: 2020-10-05
