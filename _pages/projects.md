@@ -35,6 +35,6 @@ Online deployment revealed critical barriers not visible in offline testing, inc
 
 ### Numerical Methods for Biomolecular Solvation (M.S. Research)
 
-During his M.S. studies at California State University, Northridge, Garrett developed and implemented a recursive multi-grid solver to optimize the computational efficiency of biomolecular solvation calculations within the 3D Reference Interaction Site Model (3D-RISM) framework. This work established his foundation in scientific computing, numerical methods, and Fortran and Python development; skills that would directly carry forward into his doctoral research in atmospheric modeling.
+During M.S. studies at California State University, Northridge, developed and implemented a recursive multi-grid solver to optimize the computational efficiency of biomolecular solvation calculations within the 3D Reference Interaction Site Model (3D-RISM) framework. This work established a foundation in scientific computing, numerical methods, and Fortran and Python development; skills that carried directly into doctoral research in atmospheric modeling.
 
 ---
