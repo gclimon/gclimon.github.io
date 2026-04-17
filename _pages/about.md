@@ -12,7 +12,7 @@ redirect_from:
 
 Los Angeles-raised Machine Learning Scientist, now based back in LA after finishing a Ph.D. in Climate and Space Sciences and Engineering from the University of Michigan, Ann Arbor (2025). Brings over a decade of scientific computing experience, including three years of Python and Fortran development prior to doctoral work, during which the focus was on building and evaluating deep learning and statistical models. Holding a B.S. and M.S. in Physics from California State University, Northridge, with a foundation in numerical methods for biomolecular solvation simulations; work that informed the transition into computational atmospheric science and, ultimately, applied machine learning.
 
-Doctoral research sits at the intersection of AI and Earth system modeling, spanning ML emulation of physical climate processes, live coupling of ML components into operational climate models, and the development of dynamical evaluation frameworks for next-generation AI-driven weather forecasting systems like Google's GraphCast and NVIDIA's FourCastNet.
+Doctoral research sits at the intersection of AI and Earth system modeling, spanning ML emulation of physical climate processes, live coupling of ML components into flagship climate models, and the development of dynamical evaluation frameworks for next-generation AI-driven weather forecasting systems like Google's GraphCast and NVIDIA's FourCastNet.
 
 Awarded the NSF Graduate Research Fellowship (GRFP) in 2018, with graduate certificates in both Data Science and Science & Technology Public Policy from the University of Michigan. Currently seeking Data Scientist and Applied Scientist roles where rigorous scientific thinking drives real-world impact.
 
